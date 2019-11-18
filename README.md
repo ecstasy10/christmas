@@ -10,6 +10,7 @@ En cuanto a los requisitos del proyecto, se cumplen todos los requisitos mínimo
 - Todas las animaciones son de forma infinita excepto un pequeño resplandor que se hace solo al cargar la página para darle al usuario una experiencia mas intuitiva.
 - He probado en los navegadores mas conocidos y usados y funciona correctamente (Chrome, Firefox, Edge & Opera).
 - La Web es redimensionable en cualquier disposito.
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
+![img](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
 ### Gracias por valorar mi proyecto!
