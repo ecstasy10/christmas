@@ -11,6 +11,6 @@ En cuanto a los requisitos del proyecto:
 - He probado en los navegadores mas conocidos y usados y funciona correctamente (Chrome, Firefox, Edge & Opera).
 - La Web es redimensionable en cualquier disposito.
 
-![img](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![img](https://github.com/itsnotLonee/christmas/blob/master/img/Capture.PNG?raw=true)
 
 ### Gracias por valorar mi proyecto!
