@@ -2,7 +2,7 @@
 ## Este es trabajo de animación navideña de David Balboa Rojo, 2º DAW, IES Ciudad Escolar.
 
 ###### Caracteristicas del proyecto:
-En cuanto a los requisitos del proyecto, se cumplen todos los requisitos mínimos:
+En cuanto a los requisitos del proyecto:
 - Hay un texto que a la vez es link a la web del instituto con el texto  “I.E.S. Ciudad Escolar te desea una Feliz Navidad 2019”.
 - Aparece mi nombre en el footer de la página web, además de en el meta dentro del html.
 - Cuenta con un botón muy intuitivo y visible para entrar a la web.
