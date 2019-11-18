@@ -1,6 +1,6 @@
 # Christmas ![img](https://github.com/itsnotLonee/christmas/blob/master/img/icon.png?raw=true)
 
-## Este es trabajo de animación navideña de David Balboa Rojo, 2º DAW, IES Ciudad Escolar.
+## Este es el trabajo de animación navideña de David Balboa Rojo, 2º DAW, IES Ciudad Escolar.
 
 ###### Caracteristicas del proyecto:
 En cuanto a los requisitos del proyecto:
